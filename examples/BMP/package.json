@@ -1,0 +1,13 @@
+{
+  "name": "alora-bmp",
+  "version": "1.0.0",
+  "main": "bmp.js",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "node bmp.js"
+  },
+  "dependencies": {
+    "bme280-sensor": "^0.1.6"
+  }
+}

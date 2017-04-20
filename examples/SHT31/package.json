@@ -1,0 +1,13 @@
+{
+  "name": "SHT31",
+  "version": "1.0.0",
+  "main": "sht31.js",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "node sht31.js"
+  },
+  "dependencies": {
+    "sht31": "^1.0.0"
+  }
+}

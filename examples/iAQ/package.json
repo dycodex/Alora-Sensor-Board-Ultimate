@@ -1,0 +1,13 @@
+{
+  "name": "iAQ",
+  "version": "1.0.0",
+  "main": "iAQ.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node iAQ.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "i2c": "^0.2.3"
+  }
+}
