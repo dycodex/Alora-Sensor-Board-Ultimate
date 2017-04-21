@@ -1,6 +1,14 @@
 Alora Sensor Board Ultimate
 ===========================
 
+DycodeX's most complete sensor board among another Alora Sensor Board.
+
+![Alora Sensor Board]
+(assets/alora.jpg)
+
+![Alora Sensor Board]
+(assets/alora2.jpg)
+
 # I2C Devices Address
 
 All devices listed below is accessible via I2C. You must enable I2C interface before using them.
