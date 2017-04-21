@@ -9,7 +9,7 @@ DycodeX's most complete sensor board among another Alora Sensor Board.
 
 # Activating Alora Sensor Board
 
-Before using Alora Sensor Board, you need to activate it by executing the `activate-alora.sh`.
+Before using Alora Sensor Board, you need to activate it by executing the `activate-alora`.
 
 You're free to clone this repo or download the zipped file. Then, move to the directory (`Alora-Sensor-Board-Ultimate` by default).
 
