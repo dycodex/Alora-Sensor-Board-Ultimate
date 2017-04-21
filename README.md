@@ -1,21 +1,20 @@
 Alora Sensor Board Ultimate
 ===========================
 
-# Sensors Address
+# I2C Devices Address
 
-All sensors listed below is accessible via I2C. You must enable I2C interface before using them.
+All devices listed below is accessible via I2C. You must enable I2C interface before using them.
 
-Address|Sensor
+Address|I2C device
 -------|------
 0x1D, 0x6B | LSM9DS0
 0x20 | SX1508
 0x29 | TSL2561
 0x2F | MCP4462
 0x33 | MAX1160
-0x44 | SMT31
-0x5A | iAQ
-0x6B | LSM9060
-0x77 | BMP
+0x44 | SHT31
+0x5A | iAQ-Core
+0x77 | BME285
 
 # Example Code
 
