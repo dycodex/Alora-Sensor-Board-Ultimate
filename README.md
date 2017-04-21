@@ -4,10 +4,10 @@ Alora Sensor Board Ultimate
 DycodeX's most complete sensor board among another Alora Sensor Board.
 
 ![Alora Sensor Board]
-(assets/alora.jpg)
+(https://github.com/dycodex/Alora-Sensor-Board-Ultimate/raw/master/assets/alora.jpg)
 
 ![Alora Sensor Board]
-(assets/alora2.jpg)
+(https://github.com/dycodex/Alora-Sensor-Board-Ultimate/raw/master/assets/alora2.jpg)
 
 # I2C Devices Address
 
