@@ -7,6 +7,17 @@ DycodeX's most complete sensor board among another Alora Sensor Board.
 
 ![Alora Sensor Board](https://github.com/dycodex/Alora-Sensor-Board-Ultimate/raw/master/assets/alora2.jpg)
 
+# Activating Alora Sensor Board
+
+Before using Alora Sensor Board, you need to activate it by executing the `activate-alora.sh`.
+
+You're free to clone this repo or download the zipped file. Then, move to the directory (`Alora-Sensor-Board-Ultimate` by default).
+
+```sh
+cd Alora-Sensor-Board-Ultimate
+./activate-alora
+```
+
 # I2C Devices Address
 
 All devices listed below is accessible via I2C. You must enable I2C interface before using them.
