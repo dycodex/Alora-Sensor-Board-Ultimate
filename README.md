@@ -7,6 +7,10 @@ DycodeX's most complete sensor board among another Alora Sensor Board.
 
 ![Alora Sensor Board](https://github.com/dycodex/Alora-Sensor-Board-Ultimate/raw/master/assets/alora2.jpg)
 
+# Pin Out
+
+![Alora Sensor Board pin out](https://github.com/dycodex/Alora-Sensor-Board-Ultimate/raw/master/assets/alora-pinout.jpg)
+
 # Activating Alora Sensor Board
 
 Before using Alora Sensor Board, you need to activate it by executing the `activate-alora`.
